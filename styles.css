@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #012030;
+    color: #fff;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #13678A;
+}
+
+#titulo strong {
+    font-weight: bold;
+}
+
+#ciudadanos, #analisisAdn {
+    background-color: #45C4B0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center; /* Centra el texto dentro de los contenedores */
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9AEBA3;
+    color: #012030;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: bold; /* Agrega negrita a los botones */
+}
+
+button:hover {
+    background-color: #DAFDBA;
+}
+
+#ciudadanosCompatibles ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ciudadanosCompatibles li {
+    margin-bottom: 10px;
+}body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #012030;
+    color: #fff;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #13678A;
+}
+
+#titulo strong {
+    font-weight: bold;
+}
+
+#ciudadanos, #analisisAdn {
+    background-color: #45C4B0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center; /* Centra el texto dentro de los contenedores */
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9AEBA3;
+    color: #012030;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: bold; /* Agrega negrita a los botones */
+}
+
+button:hover {
+    background-color: #DAFDBA;
+}
+
+#ciudadanosCompatibles ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ciudadanosCompatibles li {
+    margin-bottom: 10px;
+}
+
+#ciudadanosCompatibles li span {
+    font-weight: bold;
+}
+
+
+#ciudadanosCompatibles li span {
+    font-weight: bold;
+}

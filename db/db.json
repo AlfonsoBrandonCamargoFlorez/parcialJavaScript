@@ -1,1 +1,165 @@
-{}
+{
+  "ciudadanos": [
+    {
+      "nombre_completo": "Juan Pérez",
+      "direccion": "Calle 123, Ciudad A",
+      "celular": "555-1234",
+      "codigo_adn": "01011011010100110110",
+      "id": "b275"
+    },
+    {
+      "nombre_completo": "María García",
+      "direccion": "Avenida XYZ, Ciudad B",
+      "celular": "555-5678",
+      "codigo_adn": "10101001110011001101",
+      "id": "9cb1"
+    },
+    {
+      "nombre_completo": "Carlos Rodríguez",
+      "direccion": "Carrera 456, Ciudad C",
+      "celular": "555-9876",
+      "codigo_adn": "11001100101100101011",
+      "id": "70eb"
+    },
+    {
+      "nombre_completo": "Laura Gómez",
+      "direccion": "Calle ABC, Ciudad A",
+      "celular": "555-4321",
+      "codigo_adn": "00110011101011000101",
+      "id": "6e1a"
+    },
+    {
+      "nombre_completo": "Javier Martínez",
+      "direccion": "Avenida DEF, Ciudad B",
+      "celular": "555-8765",
+      "codigo_adn": "11110000101001011100",
+      "id": "a0aa"
+    },
+    {
+      "nombre_completo": "Ana Sánchez",
+      "direccion": "Carrera 789, Ciudad C",
+      "celular": "555-2345",
+      "codigo_adn": "01010101010101010101",
+      "id": "66da"
+    },
+    {
+      "nombre_completo": "Pedro López",
+      "direccion": "Calle GHI, Ciudad A",
+      "celular": "555-6789",
+      "codigo_adn": "10011001100110011001",
+      "id": "f679"
+    },
+    {
+      "nombre_completo": "Sofía Hernández",
+      "direccion": "Avenida JKL, Ciudad B",
+      "celular": "555-3456",
+      "codigo_adn": "01100110011001100110",
+      "id": "8f34"
+    },
+    {
+      "nombre_completo": "Luisa Vargas",
+      "direccion": "Carrera 101, Ciudad C",
+      "celular": "555-8901",
+      "codigo_adn": "10101010101010101010",
+      "id": "2850"
+    },
+    {
+      "nombre_completo": "Miguel Torres",
+      "direccion": "Calle MNO, Ciudad A",
+      "celular": "555-6543",
+      "codigo_adn": "11001100110011001100",
+      "id": "d2ae"
+    },
+    {
+      "nombre_completo": "Elena Castro",
+      "direccion": "Avenida PQR, Ciudad B",
+      "celular": "555-2109",
+      "codigo_adn": "00111100001111000011",
+      "id": "9147"
+    },
+    {
+      "nombre_completo": "Roberto Ramírez",
+      "direccion": "Carrera STU, Ciudad C",
+      "celular": "555-1098",
+      "codigo_adn": "11111100000011110000",
+      "id": "6eed"
+    },
+    {
+      "nombre_completo": "Carmen Morales",
+      "direccion": "Calle VWX, Ciudad A",
+      "celular": "555-9012",
+      "codigo_adn": "00001111000011110000",
+      "id": "0381"
+    },
+    {
+      "nombre_completo": "Andrés Jiménez",
+      "direccion": "Avenida YZA, Ciudad B",
+      "celular": "555-3210",
+      "codigo_adn": "11100011100011100011",
+      "id": "90fa"
+    },
+    {
+      "nombre_completo": "Isabel Ríos",
+      "direccion": "Carrera BCD, Ciudad C",
+      "celular": "555-4567",
+      "codigo_adn": "00000000111111111111",
+      "id": "c176"
+    },
+    {
+      "nombre_completo": "Héctor Medina",
+      "direccion": "Calle EFG, Ciudad A",
+      "celular": "555-7654",
+      "codigo_adn": "11111111110000000000",
+      "id": "c6ed"
+    },
+    {
+      "nombre_completo": "Patricia Silva",
+      "direccion": "Avenida HIJ, Ciudad B",
+      "celular": "555-2341",
+      "codigo_adn": "00000000001111111111",
+      "id": "6092"
+    },
+    {
+      "nombre_completo": "Alejandro Nuñez",
+      "direccion": "Carrera KLM, Ciudad C",
+      "celular": "555-8761",
+      "codigo_adn": "11000000110000001100",
+      "id": "c590"
+    },
+    {
+      "nombre_completo": "Monica Ortega",
+      "direccion": "Calle NOP, Ciudad A",
+      "celular": "555-1987",
+      "codigo_adn": "00111111100000000000",
+      "id": "ec37"
+    },
+    {
+      "nombre_completo": "Ricardo Vidal",
+      "direccion": "Avenida QRS, Ciudad B",
+      "celular": "555-5671",
+      "codigo_adn": "10000000001111111111",
+      "id": "7457"
+    },
+    {
+      "id": "68",
+      "nombre_completo": "Brandon Camargo",
+      "direccion": "calle 123",
+      "celular": "321654987",
+      "codigo_adn": "0101010101010"
+    },
+    {
+      "id": "",
+      "nombre_completo": "Sebastian",
+      "direccion": "Bucaramanga",
+      "celular": "321654987",
+      "codigo_adn": "01011011011001101101"
+    },
+    {
+      "id": "2521",
+      "nombre_completo": "Cristina",
+      "direccion": "123asd5",
+      "celular": "3216546531",
+      "codigo_adn": "101011101100000"
+    }
+  ]
+}
